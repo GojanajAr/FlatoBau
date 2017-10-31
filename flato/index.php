@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html>
 <?php 
   include 'function.php';
   check_user()
   ?>
+<!DOCTYPE html>
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="CSS/bootstrap.min.css">

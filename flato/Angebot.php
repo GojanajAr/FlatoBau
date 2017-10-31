@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html>
 <?php 
          include 'function.php';
          check_user()
          ?>
+<!DOCTYPE html>
+<html>
    <head>
       <link rel="stylesheet" type="text/css" href="CSS/RechnungStyle.css"/>
       <script type="text/javascript" src="JS/script.js"></script>
